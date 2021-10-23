@@ -28,6 +28,12 @@ body {
   font-family: "Roboto", sans-serif;
   color: var(--text-second-color);
 }
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
 .container {
   width: 1200px;
   padding-left: 15px;
